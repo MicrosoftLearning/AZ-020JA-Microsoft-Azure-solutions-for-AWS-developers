@@ -1,4 +1,3 @@
-title: 'AZ-020: Microsoft Azure solutions for AWS developers'
 remote_theme: MicrosoftLearning/Jekyll-Theme
 exclude:
   - readme.md

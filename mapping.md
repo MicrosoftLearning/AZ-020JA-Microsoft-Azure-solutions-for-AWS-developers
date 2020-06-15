@@ -1,25 +1,25 @@
-# AZ-204 lab mapping
+﻿# AZ-204 ラボ マッピング
 
-This course, AZ-020: Microsoft Azure solutions for AWS developers, is a subset of the AZ-204 course materials that have been adapted to fit a 3 day course for experienced AWS developers.
+AZ-020 コースについて: AWS 開発者向け Microsoft Azure ソリューションは、AZ-204 コース教材のサブセットであり、経験のある AWS 開発者向けに設計された 3 日間のコースです。
 
-AZ-020 labs are a subset of the AZ-204 labs and are taken directly from the [AZ-204 lab repository](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure).
+AZ-020 ラボは、AZ-204 ラボのサブセットであり、[AZ-204 ラボ リポジトリ](https://github.com/MicrosoftLearning/AZ-204JA-DevelopingSolutionsforMicrosoftAzure)から直接受講できます。
 
-## AZ-020 module mapping to AZ-204 labs
+## AZ-020 モジュールの AZ-204 ラボへのマッピング
 
-The subset of 10 AZ-204 labs used in this course are mapped per module as follows
+このコースで使用されている 10 AZ-204 ラボのサブセットは、次のとおりモジュールごとにマッピングされています。
 
-| AZ-020 Lab # | AZ-204 Lab # | Topic |
+| AZ-020 ラボ # | AZ-204 ラボ # | トピック |
 | --- | --- | --- |
 | 1 | 1 | App Services |
 | 2 | 2 | Azure Functions |
-| 3 | 3 | Azure Blob Storage |
+| 3 | 3 | Azure Blob ストレージ |
 | 4 | 4 | Azure Cosmos DB |
-| 5 | *no lab* | Azure Resource Manager (ARM) Templates |
-| 6 | 6 | Authentication and Identity |
-| 7 | 7 | Cloud Service\[s\] Security |
+| 5 | *ラボなし* | Azure Resource Manager (ARM) テンプレート |
+| 6 | 6 | 認証と ID |
+| 7 | 7 | クラウド サービス セキュリティ |
 | 8 | 8 | API Management |
-| 9* | 10 | Event-Based Messaging |
-| 10* | 11 | Asynchronous Messaging |
+| 9* | 10 | イベントベース メッセージング |
+| 10* | 11 | 非同期メッセージング |
 | 11* | 12 | Azure Monitor |
 
-**\*** *AZ-020 Module number is different than AZ-204 lab number.*
+**\*** *AZ-020 のモジュール番号は、AZ-204 のラボ番号とは異なります。*

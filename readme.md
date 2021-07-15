@@ -8,7 +8,7 @@ AZ-020: AWS 開発者向け Microsoft Azure ソリューションのコースは
 
 AZ-020 ラボは AZ-204 ラボのサブセットであり、[AZ-204 ラボ リポジトリ](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure)から直接取得します。
 
-AZ-020 コースのモジュール番号と、AZ-204 ラボ番号の**[マッピング](mapping.md)**情報については、`../Instructions/labs` フォルダーの readme ファイルを参照してください。
+AZ-020 コースのモジュール番号と、AZ-204 ラボ番号の **[マッピング](mapping.md)** 情報については、`../Instructions/labs` フォルダーの readme ファイルを参照してください。
 
 ## 実行すること
 

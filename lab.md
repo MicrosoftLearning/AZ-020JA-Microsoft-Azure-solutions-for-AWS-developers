@@ -83,7 +83,7 @@
 
 - PowerShell 7 の更新通知を無効にする
 
-  1. [POWERSHELL_UPDATECHECK] という名前の[環境変数を作成する](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_update_notifications?view=powershell-7)
+  1. ``POWERSHELL_UPDATECHECK`` という名前の[環境変数を作成する](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_update_notifications?view=powershell-7)
   
   1. 環境変数の値を ``Off`` に設定する (大文字と小文字を区別します)
 
